@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Abdurahman Sharif (Rylvion)
 
-I'm a **student at Manchester College** currently starting a Level 3 Extended Diploma (16–18) in **Computer Science and Digital Development**. My journey begins in just a few days, and I’m excited to dive in!
+I'm a **student at Manchester College** pursuing a Level 3 Extended Diploma (16–18) in **Computer Science and Digital Development**. I’m excited to dive into coding and projects!
 
 ---
 
