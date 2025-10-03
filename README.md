@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Abdurahman Sharif (Rylvion)
+## Hi there 👋 I'm Abdurahman Sharif
 
 I'm a **student at Manchester College** pursuing a Level 3 Extended Diploma (16–18) in **Computer Science and Digital Development**. I’m excited to dive into coding and projects!
 
@@ -40,7 +40,6 @@ I'm a **student at Manchester College** pursuing a Level 3 Extended Diploma (16�
 * Discord: rylvion
 * Stack Overflow: [rylvion](https://stackoverflow.com/users/31430095/rylvion)
 * Email:
-
   * Main: [abdurahmansharif.uk@gmail.com](mailto:abdurahmansharif.uk@gmail.com)
   * Old: [abdurahmanshari@hotmail.com](mailto:abdurahmanshari@hotmail.com)
   * College: [1559003@stu.tmc.ac.uk](mailto:1559003@stu.tmc.ac.uk)
@@ -52,10 +51,8 @@ I'm a **student at Manchester College** pursuing a Level 3 Extended Diploma (16�
 
 ### ⚡ Fun Facts
 
-* Introverted and a bit of a shut-in 😅
+* Introverted and a bit of a shut-in
 * Love project-focused learning over exams
 * Got **Math Grade 8**
 * Dreaming of becoming an **indie solo developer or freelancer**
-* I let the wheels of fate guide me—my future could take any path!
-* I underestimate myself
-* Open to work experience opportunities (if its outside of school timings); I have ASCD and SLCN
+* Open to work experience opportunities; I have ASCD and SLCN
