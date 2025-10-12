@@ -6,15 +6,15 @@ I'm a **student at Manchester College** pursuing a Level 3 RQF Pearson Extended 
 
 ### 🔭 Currently Working On
 
-* FreeCodeCamp projects
+* Making a Special Purpose Software (Ability Stats Visualiser radar chart website) for a game in roblox 
 * Preparing for diploma in Computer Science and Digital Development
 
 ---
 
 ### 🌱 Currently Learning
 
+* Python
 * Roblox Luau
-* C#
 * Unit 01 Principles of Computer Science
 * Unit 02 Fundamentals of Computer Systems
 
@@ -66,7 +66,8 @@ I'm a **student at Manchester College** pursuing a Level 3 RQF Pearson Extended 
 
 ### ⚡ Fun Facts
 
+* I have not reached a level on any programming language of intermediacy or advanced 
 * Love project-focused learning over exams
 * Achieved **Math Grade 8**
-* Dreaming of becoming an **indie solo developer or freelancer**
-* Open to work experience opportunities; I have ASCD and SLCN
+* Future aspirations as an **indie solo developer or freelancer**
+* Open to work experience opportunities
