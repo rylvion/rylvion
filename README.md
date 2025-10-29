@@ -17,6 +17,7 @@ I'm a **student at Manchester College** pursuing a Level 3 RQF Pearson Extended 
 * Roblox Luau
 * Unit 01 Principles of Computer Science
 * Unit 02 Fundamentals of Computer Systems
+* Unit 07 IT Systems and Encryption
 
 ---
 ### 🛠️ Tech Stack
@@ -66,8 +67,7 @@ I'm a **student at Manchester College** pursuing a Level 3 RQF Pearson Extended 
 
 ### ⚡ Fun Facts
 
-* I have not reached a level on any programming language of intermediacy or advanced 
 * Love project-focused learning over exams
 * Achieved **Math Grade 8**
-* Future aspirations as an **indie solo developer or freelancer**
+* Future aspirations as an **Professional Software Developer** or somewhere in line
 * Open to work experience opportunities
